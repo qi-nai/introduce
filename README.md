@@ -25,7 +25,7 @@
 
 
 <details>
-<summary>自我描述和个人观念以及想法</summary>
+<summary>自我描述  观念以及想法</summary>
 
 *  **性格**  
    说实话，我并不能清楚的认识到我自己是个什么样性格的人，不过我是希望自己能像夏目贵志那样温柔。我脾气应该还可以，虽然有时候会因为激动声音变大，但我并不是在生气，就算生气了也容易消气，我也不骂人，打游戏就算被坑也基本不会骂人。比较感性，共情能力比较强所以泪点低 。
@@ -85,10 +85,11 @@
 </details>
 
 <details>
-<summary> 联系 </summary>
-    
- QQ：1044955517
- [微博](https://weibo.com/u/5966539512)
- [B站](https://space.bilibili.com/3987497)
+<summary> 联系 </summary>  
+ 
+ [微博](https://weibo.com/u/5966539512)      [B站](https://space.bilibili.com/3987497)
+
+      
+ QQ：1044955517  
    
 </details>
