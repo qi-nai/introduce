@@ -87,8 +87,8 @@
 <details>
 <summary> 联系 </summary>
     
-QQ：tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=888888888
-微博：https://weibo.com/u/5966539512
-B站：https://space.bilibili.com/3987497
+ QQ：1044955517
+ [微博](https://weibo.com/u/5966539512)
+ [B站](https://space.bilibili.com/3987497)
    
 </details>
