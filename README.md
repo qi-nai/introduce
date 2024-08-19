@@ -83,3 +83,12 @@
 <summary>最后</summary>
    我觉得 我们每一个人，其实都非常渴望被看到，让别人知道自己是多么与众不同的，自己是一个具有独特特征的个体。我写了这么多的原因，正是希望这些文字能让你看到我所具备的独特之处，如果我的这些特质恰好能吸引你，同时你的特质也能吸引我，那么你就是我所寻找的最理想的另一半。
 </details>
+
+<details>
+<summary> 联系 </summary>
+    
+QQ：tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=888888888
+微博：https://weibo.com/u/5966539512
+B站：https://space.bilibili.com/3987497
+   
+</details>
